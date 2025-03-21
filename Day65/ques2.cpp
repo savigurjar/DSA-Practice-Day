@@ -1,0 +1,2 @@
+/*static_cast in C++
+static_cast is a type of casting operator in C++ that is used to convert one data type to another at compile time. It is safer than C-style casting ((type) value) because it performs type checking during compilation.*/
